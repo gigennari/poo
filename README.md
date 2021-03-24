@@ -7,6 +7,9 @@
 Aluna do 2º ano de Engenharia de Computação na Unicamp. 
 
 ### O repositório
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gigennari/poo/HEAD)
+
 Estou cursando a disciplina de Programação Orientada a Obejetos (MC322) no 1º semestre de 2021 com o professor André Santanché. 
 
 Neste repositório, vou armazenar notas de aula e laboratórios. 
