@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Ap02Quadrado",
+            "request": "launch",
+            "mainClass": "pt.c01basico.s01es.Ap02Quadrado",
+            "projectName": ""
+        },
+        {
             "name": "gcc-9 - Criar e depurar o arquivo ativo",
             "type": "cppdbg",
             "request": "launch",
