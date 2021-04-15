@@ -19,7 +19,7 @@
 └── README.md
 ~~~ 
 
-## Notebook sobre Lombriga no Aquário(notebook/lab-lombriga.ipynb)
+## [Notebook sobre Lombriga no Aquário](notebook/lab-lombriga.ipynb)
 
 
-## Arquivos Java sobre Lombriga no Aquário(mc322/src/lab03)
+## [Arquivos Java sobre Lombriga no Aquário](mc322/src/lab03)
