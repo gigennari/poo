@@ -7,6 +7,6 @@ Estrutura de pastas:
 └── README.md
 ```
 
-## [Notebook 1 sobre Estruturas em Java](notebook/lab02-java-estruturas.ipynb)
+## [Notebook sobre Java Estruturas](notebook/lab02-java-estruturas.ipynb)
 
 
