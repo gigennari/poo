@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppEmprestimo",
+            "request": "launch",
+            "mainClass": "AppEmprestimo",
+            "projectName": "poo_5e7665e3"
+        },
+        {
+            "type": "java",
             "name": "Launch Ap02Quadrado",
             "request": "launch",
             "mainClass": "pt.c01basico.s01es.Ap02Quadrado",
