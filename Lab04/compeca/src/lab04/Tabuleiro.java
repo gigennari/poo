@@ -40,7 +40,7 @@ Peca[][] tabuleiro = new Peca[7][7];
 						
 			}		
 		}
-		System.out.println("Tabuleiro Incial: ");
+		System.out.println("Tabuleiro Inicial: ");
 		ApresentarTabuleiro();
 }
 		
@@ -113,13 +113,15 @@ Peca[][] tabuleiro = new Peca[7][7];
 		
 		void ApresentarTabuleiro() {
 
+			String linhas = "";
 			for(int i = 0; i < 7; i++) {
-			    System.out.print(7-i);
+			    linhas = linhas + (7-i);
 			    for(int j = 0; j < 7; j++) {
-			    	System.out.print(tabuleiro[i][j].caractere);
+			    	linhas = linhas+ tabuleiro[i][j].caractere;
 			    }
-			    System.out.println();
+			    linhas = linhas + '\n';
 			}
+			System.out.print(linhas);
 			System.out.println(" abcdefg\n");
 		}
 }

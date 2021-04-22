@@ -6,19 +6,21 @@ Estrutura de pastas:
 .
 ├── compeca
 │   ├── bin
-│   │   ├── AppRestaUm.class
-│   │   ├── CSVReader.class
-│   │   ├── Peca.class
-│   │   ├── Tabuleiro.class
-│   │   └── testes
-│   │       
+│   │   └── lab04
+│   │       ├── AppRestaUm.class
+│   │       ├── CSVReader.class
+│   │       ├── Peca.class
+│   │       ├── Tabuleiro.class
+│   │       └── testes
+│   │           
 │   └── src
-│       ├── AppRestaUm.java
-│       ├── CSVReader.java
-│       ├── Peca.java
-│       ├── Tabuleiro.java
-│       └── testes
-│           
+│       └── lab04
+│           ├── AppRestaUm.java
+│           ├── CSVReader.java
+│           ├── Peca.java
+│           ├── Tabuleiro.java
+│           └── testes
+│               
 ├── README.md
 └── sempeca
     ├── bin
@@ -29,8 +31,6 @@ Estrutura de pastas:
         ├── AppRestaUm.java
         ├── CSVReader.java
         └── Tabuleiro.java
-
-
 
 ~~~
 
