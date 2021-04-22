@@ -34,6 +34,6 @@ Estrutura de pastas:
 
 ~~~
 
-## [Arquivos Java Resta Um com classe Peca](compeca/src)
+## [Arquivos Java Resta Um com classe Peca](compeca/src/lab04)
 
 ## [Arquivos Java Resta Um sem classe Peca](sempeca/src)
